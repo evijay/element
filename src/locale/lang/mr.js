@@ -91,7 +91,7 @@ export default {
       emptyText: 'माहिती उपलब्ध नाही',
       confirmFilter: 'खात्रीपूर्वक',
       resetFilter: 'पुन्हा रचना करा',
-      clearFilter: 'सर्व',,
+      clearFilter: 'सर्व',
       sumText: 'Sum'
     },
     tree: {
@@ -100,8 +100,8 @@ export default {
     transfer: {
       noMatch: 'कोणताही जुळणारी माहिती उपलब्ध नाही',
       noData: 'माहिती उपलब्ध नाही',
-      titles: ['सूची 1', 'यादी 2'], // to be translated
-      filterPlaceholder: 'कीवर्ड प्रविष्ट करा', // to be translated
+      titles: ['सूची 1', 'सूची 2'], // to be translated
+      filterPlaceholder: 'संकेत शब्द प्रविष्ट करा', // to be translated
       noCheckedFormat: '{एकूण} आयटम्स', // to be translated
       hasCheckedFormat: '{तपासले}/{एकूण} तपासले' // to be translated
     }
